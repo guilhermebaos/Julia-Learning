@@ -1,0 +1,26 @@
+01-Looping.jl
+85.737162 seconds (700.00 M allocations: 14.607 GiB, 24.28% gc time, 0.01% compilation time)
+
+02 - Function.jl
+27.888729 seconds (100.01 M allocations: 4.177 GiB, 27.57% gc time, 0.06% compilation time)
+
+03 - Operations.jl
+1.328290 seconds (371.47 k allocations: 1.508 GiB, 35.44% gc time, 19.04% compilation time)
+1.712202 seconds (14 allocations: 1.490 GiB, 52.39% gc time)
+0.999407 seconds (14 allocations: 1.490 GiB, 26.66% gc time)
+
+
+04 - Broadcasting.jl
+0.603390 seconds (231.24 k allocations: 774.286 MiB, 7.49% gc time, 20.07% compilation time)
+0.627953 seconds (13 allocations: 762.940 MiB, 33.12% gc time)
+0.610263 seconds (13 allocations: 762.940 MiB, 25.49% gc time)
+
+05 - Broadcasting32.jl
+0.563707 seconds (267.46 k allocations: 394.556 MiB, 25.90% gc time, 27.79% compilation time)
+0.208712 seconds (13 allocations: 381.470 MiB, 15.92% gc time)
+0.375802 seconds (13 allocations: 381.470 MiB, 36.13% gc time)
+
+06 - Build-in.jl
+0.109232 seconds (35.09 k allocations: 1.696 MiB, 17.17% compilation time)
+0.089467 seconds
+0.087137 seconds
